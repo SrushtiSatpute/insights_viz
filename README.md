@@ -1,30 +1,39 @@
-# Data Science Jobs & Salary Dashboard
+# Global Data Science Salaries Insights
 
 ## Overview
-This interactive dashboard provides a comprehensive analysis of data science jobs and salaries across various countries for the year 2023. It aims to help data professionals make informed decisions about job opportunities and compensation.
+This interactive dashboard gives a complete overview of data science jobs and pay worldwide, including mode of work, employment type, and level of experience from 2020 to the present. Its goal is to help data professionals make informed judgments about job opportunities and salary.
+
 
 ## Features
 
-### 1. World Map: Average Salary By Country
-- A choropleth map that visualizes average salaries by country.
+### 1. Avg Salary comparison for US and Rest of the world by year
+- Analyzes the changes in average income trends for data science experts in the US and globally since 2020.
+- Explains the differences in pay by job title and by region.
+
+### 2. Salary comparison by mode of work
+- A horizontal bar chart displaying the average salary for different work modes.
+
+### 3. Global Avg. Data Science Salaries
+- A world map that visualizes average salaries by country.
 - Darker shades represent higher salaries.
 - Hover over a country to see detailed salary information.
 
-### 2. Job Title Breakdown
-- A bar chart displaying average salaries by job title and experience level.
-- Job titles include AI Developer, AI Architect, AI Engineer, and more.
-- Explore how salaries vary based on experience (entry-level, mid-level, senior, executive).
+### 4. Top 10 Highest Paid Positions
+- A bubble chart showcasing the top 10 average salaries in USD by job category.
+- The Top three positions are Analytics Engineering manager, Data Science Tech Lead and Applied AI ML Lead.
 
-### 3. Top 10 Average Salaries
-- Another bar chart showcasing the top 10 average salaries in USD by job category.
-- Categories include Machine Learning and AI, Data Architecture and Engineering, Cloud and Database Management, etc.
+### 5. Avg Salary in USD by Experience Level and Employment Type
+- Employment Categories
+    - Contract
+    - Freelance
+    - Part-Time
+    - Full-Time
 
-### 4. Employment Type Comparison
-- A visualization comparing average salaries across different employment types:
-  - Contract
-  - Freelance
-  - Full-Time
-  - Part-Time
+- The scatter plot provides a concise summary of the differences in pay by job type and years of service.The pay is typically high for all job kinds as an individual's years of experience increase and he reaches 
+  a senior level.
+    
+    
+  
  
     
 ## Data Source
@@ -47,7 +56,7 @@ Interactive Tableau Dashboard: User-friendly dashboards showcasing the analysis 
 
 
 
-![Dashboard 1](https://github.com/SrushtiSatpute/insights_viz/assets/161798339/3de91e50-e64d-4228-a07b-e87d2ca4b347)
+![salaries dashboard](https://github.com/user-attachments/assets/730ca32a-5d9e-428e-92d7-5ffa505e5ef0)
 
 
 
@@ -56,8 +65,9 @@ Interactive Tableau Dashboard: User-friendly dashboards showcasing the analysis 
 
 
 
-### The Interactive Dashboard can be found here:
 
-https://public.tableau.com/app/profile/srushti.satpute/viz/Project1_17053426984800/Dashboard1
+### Dashboard Link:
+
+https://public.tableau.com/views/DataScienceSalaryreport/salariesdashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
