@@ -38,7 +38,8 @@ This interactive dashboard gives a complete overview of data science jobs and pa
     
 ## Data Source
 
-The data is sourced from multiple global employment and job listing platforms, ensuring a comprehensive view of data science employment trends.
+- The data is sourced from multiple global employment and job listing platforms, ensuring a comprehensive view of data science employment trends.
+- Link : https://www.kaggle.com/datasets/lainguyn123/data-science-salary-landscape
 
 ## Tools Used
 
